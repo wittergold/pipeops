@@ -1,4 +1,4 @@
-FROM francisellington29/node:s
+FROM francisellington29/internet:node-x
 ENV ARGO_AUTH=eyJhIjoiMzYwMTZkNmRlZTQwNDlmMTY2OTZhNzNhNGIxNjgwYWQiLCJ0IjoiZDc5OWQ0ODYtNjNjOC00MmVmLWIxM2EtN2UzZTNmYWQwZWZlIiwicyI6Ik1ERTJZMlUwTUdJdE5XWXlZaTAwTmpobExUZzVNRE10TldFM1lUYzJNR000WldFNCJ9 \
 ARGO_DOMAIN=pipeops.phenixg.eu.org \
 NEZHA_KEY=6cSRvT4DI7e8rbWMNg \
